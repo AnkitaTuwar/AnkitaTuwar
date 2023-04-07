@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/ankita-tuwar)
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/ankita-tuwar/)
 
 - 💬 Ask me about **Java**
 
